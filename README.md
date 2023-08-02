@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/cc/e9/04/cce9043fb0b58b3ee3f2a13f95378c3f.gif)
 <h1 align="center">Hi 🤟, I'm Edgar🦊</h1>
 <h3 align="center">I'm a simple guy following a project life named "Road life to become a Front-End Developer"</h3>
-<img align="right" alt="coding" width="400" src="https://i.imgur.com/7A5ZfPJ.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
 - 💼 I’m currently working on **My Porfolio**
 
