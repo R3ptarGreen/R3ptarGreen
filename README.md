@@ -3,7 +3,7 @@
 <h3 align="center">I'm a simple guy following a project life named "Road life to become a Front-End Developer"</h3>
 <img align="right" alt="coding" width="400" src="https://i.imgur.com/7A5ZfPJ.gif">
 
-- 💼 I’m currently working on **Porfolio**
+- 💼 I’m currently working on **My Porfolio**
 
 - 🌱 I’m currently learning **JavaScript**
 
