@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/cc/e9/04/cce9043fb0b58b3ee3f2a13f95378c3f.gif)
 <h1 align="center">Hi 🤟, I'm Edgar🦊</h1>
 <h3 align="center">Born and raised in Cancun, Mexico.</h3>
-<h2 align="left">
+<p align="left">
 🚶‍♂️ My journey began as a student of industrial engineering and a waiter's assistant in a hotel chain. Eventually, my positive aptitudes allowed me to stand out; however, due to pandemic circumstances, I was negatively impacted, and my engineering career became unsustainable, leading to a challenging phase in my personal and professional life, which prompted me to change careers.
 
 🚀 Currently, I am dedicated to studying programming and web development as a professional career in the Front-End area, specializing in the JavaScript ecosystem. I have delivered relevant personal projects in the sector, and my perseverance and eagerness to learn have given me this opportunity to work as a developer.
@@ -9,7 +9,7 @@
 🙇‍♂️ I am proud and happy with the change, especially excited about new opportunities and how much effort I have put into it.
 
 const 📌hobbies = [👨‍🍳Cooking, 🎬Watching series and movies];
-</h2>
+</p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
 - 💼 I’m currently working on **My Porfolio**
