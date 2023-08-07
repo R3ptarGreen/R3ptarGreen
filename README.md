@@ -2,7 +2,8 @@
 <h1 align="center">Hi 🤟, I'm Edgar🦊</h1>
 <h3 align="center">Born and raised in Cancun, Mexico.</h3>
 <div style="display: flex;">
-  <p align="left" tex>
+  <div style="flex: 1;">
+      <p align="left" tex>
 🚶‍♂️ My journey began as a student of industrial engineering and a waiter's assistant in a hotel chain. Eventually, my positive aptitudes allowed me to stand out; however, due to pandemic circumstances, I was negatively impacted, and my engineering career became unsustainable, leading to a challenging phase in my personal and professional life, which prompted me to change careers.
 
 🚀 Currently, I am dedicated to studying programming and web development as a professional career in the Front-End area, specializing in the JavaScript ecosystem. I have delivered relevant personal projects in the sector, and my perseverance and eagerness to learn have given me this opportunity to work as a developer.
@@ -11,7 +12,10 @@
 
 const 📌hobbies = [👨‍🍳Cooking, 🎬Watching series and movies];
 </p>
+  </div>
+  <div style="flex: 1;">
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
+  </div>
 </div>
 <br>
 - 💼 I’m currently working on **My Porfolio**
