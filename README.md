@@ -19,7 +19,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
-<h3>🎯I’m currently...</h3>
+<h3>🎯 I’m currently...</h3>
 
 - 💼 working on **My Porfolio**
 
