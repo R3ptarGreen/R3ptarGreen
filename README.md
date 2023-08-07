@@ -2,7 +2,7 @@
 <h1 align="center">Hi 🤟, I'm Edgar🦊</h1>
 <h3 align="center">Born and raised in Cancún, Mexico.</h3>
 
-<img align="right" style="border-radius: 0.25rem" alt="coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
 <justify>
 🚶‍♂️ My journey began as a student of industrial engineering and a waiter's assistant in a hotel chain. Eventually, my positive aptitudes allowed me to stand out; however, due to pandemic circumstances, I was negatively impacted, and my engineering career became unsustainable, leading to a challenging phase in my personal and professional life, which prompted me to change careers.
@@ -16,6 +16,7 @@ const 📌hobbies = [
     🎬Watching series and movies
 ];
 </justify>
+
 - 💼 I’m currently working on **My Porfolio**
 
 - 🌱 I’m currently learning **JavaScript**
