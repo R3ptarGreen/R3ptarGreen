@@ -10,12 +10,13 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
-<h3>📌hobbies:</h3>  
+<h1></h1>
 
+<h3>📌hobbies:</h3>  
 👨‍🍳Cooking.
+
 🎬Watching series and movies.
 
-<h1></h1>
 
 - 💼 I’m currently working on **My Porfolio**
 
