@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/cc/e9/04/cce9043fb0b58b3ee3f2a13f95378c3f.gif)
 <h1 align="center">Hi 🤟, I'm Edgar🦊</h1>
-<img align="right" alt="coding" width="400" height="300" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
+<img align="right" alt="coding" width="400" height="350" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 <h3 align="center">Born and raised in Cancún, Mexico.</h3>
 
 🚶‍♂️ My journey began as a student of industrial engineering and a waiter's assistant in a hotel chain. Eventually, my positive aptitudes allowed me to stand out; however, due to pandemic circumstances, I was negatively impacted, and my engineering career became unsustainable, leading to a challenging phase in my personal and professional life, which prompted me to change careers.
