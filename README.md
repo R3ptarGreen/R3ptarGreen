@@ -14,7 +14,9 @@ const 📌hobbies = [
     🎬Watching series and movies
 ];
 
-<h1 align="center">Hi 🤟, I'm Edgar🦊</h1>
+
+<h1 align="center"></h1>
+
 - 💼 I’m currently working on **My Porfolio**
 
 - 🌱 I’m currently learning **JavaScript**
