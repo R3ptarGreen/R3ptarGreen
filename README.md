@@ -10,7 +10,7 @@
 
 <h3>🎏hobbies:</h3>  
 
-👨‍🍳Cooking.
+👨‍🍳Cook.
 
 
 🎬Watch series and movies.
