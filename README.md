@@ -13,7 +13,7 @@
 👨‍🍳Cooking.
 
 
-🎬Watching series and movies.
+🎬Watch series and movies.
 
 <h1></h1>
 
@@ -23,7 +23,9 @@
 
 - 💼 working on **My Porfolio**
 
-- 🌱 learning **JavaScript**
+- 🌱 learning **React**
+
+- 💻 practicing **JavaScript** 
 
 <h3 align="left">📌 Connect with me:</h3>
 <p align="left">
