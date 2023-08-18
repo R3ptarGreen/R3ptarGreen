@@ -10,10 +10,10 @@
 
 <h3>🎏hobbies:</h3>  
 
-👨‍🍳Cook.
+👨‍🍳Cooking.
 
 
-🎬Watch series and movies.
+🎬Watching series and movies.
 
 <h1></h1>
 
