@@ -21,11 +21,11 @@
 
 <h3>🎯 I’m currently...</h3>
 
-- 💼 working on **My Porfolio**
+- 💼 working on **Freelance**
 
-- 🌱 learning **Jest & Vitest**
+- 🌱 learning **TypeScript**
 
-- 💻 practicing **JavaScript & React**
+- 💻 practicing **Astro**
 
 <h3 align="left">📌 Connect with me:</h3>
 <p align="left">
@@ -42,7 +42,10 @@
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="JS" width="40" height="40"/> </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354259/react.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo.svg" alt="vitest" width="40" height="40"/> </a>
+  <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="https://testing-library.com/img/octopus-64x64.png" alt="testing-library" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
   
 </p>
 
