@@ -3,11 +3,14 @@
 <h1 align="center">Hi 🤟, I'm Edgar🦊</h1>
 <h3 align="center">Born and raised in Cancún, Mexico.</h3>
 
-🚶‍♂️ My journey began as a student of industrial engineering and a waiter's assistant in a hotel chain. Eventually, my positive aptitudes allowed me to stand out; however, due to pandemic circumstances, I was negatively impacted, and my engineering career became unsustainable, leading to a challenging phase in my personal and professional life, which prompted me to change careers.
+A Front-end developer with a passion for creating dynamic and visually impactful web experiences. I currently work at Marker Branding, a company dedicated to boosting brands through redesigns, marketing strategies, and creating customized websites.
 
-🚀 Currently, I am dedicated to studying programming and web development as a professional career in the Front-End area, specializing in the JavaScript ecosystem. I have delivered relevant personal projects in the sector, and my perseverance and eagerness to learn have given me this opportunity to work as a developer.
+💻 At Marker Branding, my main responsibility is creating websites using Next.js. I develop landing pages and single pages that enhance and add value to our services. With my experience in GSAP animations, every page I create has a unique and attractive environment that engages users and enhances the brand's identity.
 
-🙇‍♂️ I am proud and happy with the change, especially excited about new opportunities and how much effort I have put into it.
+🔄 Three months ago, I led the migration of our projects from WordPress to Next.js, which has been well-received by the team. This change has significantly improved the performance of our websites and opened new opportunities for customizing user experiences. I also use Sanity as a headless CMS to ensure our clients can personalize their websites according to their needs, from changing prices to updating images.
+
+🚀 My constant focus on improving my design and animation skills, along with my dedication to performance optimization, allows me to offer innovative and effective solutions to our clients. I'm excited to continue growing in my career and explore new opportunities in web development.
+
 
 <h3>🎏hobbies:</h3>
 
@@ -21,11 +24,11 @@
 
 <h3>🎯 I’m currently...</h3>
 
-- 💼 working on **Freelance**
+- 💼 working on **Marker Branding**
 
-- 🌱 learning **TypeScript**
+- 🌱 learning **Web Performance**
 
-- 💻 practicing **Astro**
+- 💻 practicing **Design UI**
 
 <h3 align="left">📌 Connect with me:</h3>
 <p align="left">
